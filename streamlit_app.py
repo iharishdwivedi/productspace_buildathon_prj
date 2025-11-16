@@ -274,7 +274,7 @@ ANSWER RULES:
     try:
         response = model.generate_content(prompt)
         if response and hasattr(response, 'text') and response.text:
-            return html.escape(response.text)
+            return response.text
         else:
             return "I couldn't generate a response. Please try rephrasing your question."
     except Exception as api_error:
@@ -326,6 +326,7 @@ if st.session_state.page == "chat":
         st.markdown('<div class="red-btn">', unsafe_allow_html=True)
         if st.button("🗑️ Clear Chat", use_container_width=True):
             st.session_state.messages = []
+            st.session_state.processing = False
             st.rerun()
         st.markdown('</div>', unsafe_allow_html=True)
 
@@ -339,28 +340,38 @@ if st.session_state.page == "chat":
 
 
 
-    user_input = st.chat_input("Ask Nova anything...")
-    if user_input:
+    # Initialize processing flag
+    if "processing" not in st.session_state:
+        st.session_state.processing = False
+
+    user_input = st.chat_input("Ask Nova anything...", disabled=st.session_state.processing)
+    
+    if user_input and not st.session_state.processing:
         try:
             if len(user_input.strip()) == 0:
                 st.warning("Please enter a question.")
             elif len(user_input) > 1000:
                 st.error("Question too long. Please keep it under 1000 characters.")
             else:
+                st.session_state.processing = True
                 st.session_state.messages.append({"role": "user", "content": user_input})
                 
-                document_name = find_relevant_document(user_input)
-                document_content = load_document(document_name)
+                with st.spinner("Nova is thinking..."):
+                    document_name = find_relevant_document(user_input)
+                    document_content = load_document(document_name)
+                    
+                    if document_content.startswith("Error:"):
+                        ai_response = "I'm having trouble accessing the relevant documents. Please try again or contact support."
+                    else:
+                        ai_response = get_ai_response(user_input, document_content)
+                    
+                    st.session_state.messages.append({"role": "assistant", "content": ai_response})
                 
-                if document_content.startswith("Error:"):
-                    ai_response = "I'm having trouble accessing the relevant documents. Please try again or contact support."
-                else:
-                    ai_response = get_ai_response(user_input, document_content)
-                
-                st.session_state.messages.append({"role": "assistant", "content": ai_response})
+                st.session_state.processing = False
                 st.rerun()
             
         except Exception as e:
+            st.session_state.processing = False
             st.error("An error occurred while processing your request. Please try again.")
             print(f"Chat error: {type(e).__name__}: {str(e)}")
 # -------------------- DOCUMENT PAGE --------------------
