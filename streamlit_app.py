@@ -362,6 +362,7 @@ if st.session_state.page == "chat":
                     ai_response = get_ai_response(prompt, document_content)
                 
                 st.session_state.messages.append({"role": "assistant", "content": ai_response})
+                st.rerun()
 # -------------------- DOCUMENT PAGE --------------------
 else:
     st.markdown("""
