@@ -331,11 +331,24 @@ if st.session_state.page == "chat":
 
     st.markdown("""<div class="chat-header"><h3>💬 Chat with Nova</h3></div>""", unsafe_allow_html=True)
 
-    for msg in st.session_state.messages:
-        if "role" in msg and "content" in msg:
-            bubble_class = "user-message" if msg["role"] == "user" else "bot-message"
-            content = str(msg["content"])
-            st.markdown(f'<div class="chat-message {bubble_class}">{content}</div>', unsafe_allow_html=True)
+    # Chat messages container with auto-scroll
+    chat_container = st.container()
+    with chat_container:
+        for msg in st.session_state.messages:
+            if "role" in msg and "content" in msg:
+                bubble_class = "user-message" if msg["role"] == "user" else "bot-message"
+                content = str(msg["content"])
+                st.markdown(f'<div class="chat-message {bubble_class}">{content}</div>', unsafe_allow_html=True)
+    
+    # Auto-scroll to bottom
+    if st.session_state.messages:
+        st.markdown("""
+        <script>
+        setTimeout(function() {
+            window.scrollTo(0, document.body.scrollHeight);
+        }, 100);
+        </script>
+        """, unsafe_allow_html=True)
 
 
 
