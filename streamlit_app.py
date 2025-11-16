@@ -326,7 +326,6 @@ if st.session_state.page == "chat":
         st.markdown('<div class="red-btn">', unsafe_allow_html=True)
         if st.button("🗑️ Clear Chat", use_container_width=True):
             st.session_state.messages = []
-            st.session_state.processing = False
             st.rerun()
         st.markdown('</div>', unsafe_allow_html=True)
 
@@ -335,45 +334,29 @@ if st.session_state.page == "chat":
     for msg in st.session_state.messages:
         if "role" in msg and "content" in msg:
             bubble_class = "user-message" if msg["role"] == "user" else "bot-message"
-            safe_content = html.escape(str(msg["content"]), quote=True)
-            st.markdown(f'<div class="chat-message {bubble_class}">{safe_content}</div>', unsafe_allow_html=True)
+            content = str(msg["content"])
+            st.markdown(f'<div class="chat-message {bubble_class}">{content}</div>', unsafe_allow_html=True)
 
 
 
-    # Initialize processing flag
-    if "processing" not in st.session_state:
-        st.session_state.processing = False
-
-    user_input = st.chat_input("Ask Nova anything...", disabled=st.session_state.processing)
-    
-    if user_input and not st.session_state.processing:
-        try:
-            if len(user_input.strip()) == 0:
-                st.warning("Please enter a question.")
-            elif len(user_input) > 1000:
-                st.error("Question too long. Please keep it under 1000 characters.")
-            else:
-                st.session_state.processing = True
-                st.session_state.messages.append({"role": "user", "content": user_input})
-                
-                with st.spinner("Nova is thinking..."):
-                    document_name = find_relevant_document(user_input)
-                    document_content = load_document(document_name)
-                    
-                    if document_content.startswith("Error:"):
-                        ai_response = "I'm having trouble accessing the relevant documents. Please try again or contact support."
-                    else:
-                        ai_response = get_ai_response(user_input, document_content)
-                    
-                    st.session_state.messages.append({"role": "assistant", "content": ai_response})
-                
-                st.session_state.processing = False
-                st.rerun()
+    if prompt := st.chat_input("Ask Nova anything..."):
+        if len(prompt.strip()) == 0:
+            st.warning("Please enter a question.")
+        elif len(prompt) > 1000:
+            st.error("Question too long. Please keep it under 1000 characters.")
+        else:
+            st.session_state.messages.append({"role": "user", "content": prompt})
             
-        except Exception as e:
-            st.session_state.processing = False
-            st.error("An error occurred while processing your request. Please try again.")
-            print(f"Chat error: {type(e).__name__}: {str(e)}")
+            document_name = find_relevant_document(prompt)
+            document_content = load_document(document_name)
+            
+            if document_content.startswith("Error:"):
+                ai_response = "I'm having trouble accessing the relevant documents. Please try again or contact support."
+            else:
+                ai_response = get_ai_response(prompt, document_content)
+            
+            st.session_state.messages.append({"role": "assistant", "content": ai_response})
+            st.rerun()
 # -------------------- DOCUMENT PAGE --------------------
 else:
     st.markdown("""
