@@ -332,20 +332,37 @@ if st.session_state.page == "chat":
     st.markdown("""<div class="chat-header"><h3>💬 Chat with Nova</h3></div>""", unsafe_allow_html=True)
 
     for msg in st.session_state.messages:
-        bubble_class = "user-message" if msg["role"] == "user" else "bot-message"
-        safe_content = html.escape(msg["content"])
-        st.markdown(f'<div class="chat-message {bubble_class}">{safe_content}</div>', unsafe_allow_html=True)
+        if "role" in msg and "content" in msg:
+            bubble_class = "user-message" if msg["role"] == "user" else "bot-message"
+            safe_content = html.escape(str(msg["content"]), quote=True)
+            st.markdown(f'<div class="chat-message {bubble_class}">{safe_content}</div>', unsafe_allow_html=True)
 
 
 
     user_input = st.chat_input("Ask Nova anything...")
     if user_input:
-        st.session_state.messages.append({"role": "user", "content": user_input})
-        doc = find_relevant_document(user_input)
-        ctx = load_document(doc)
-        bot = get_ai_response(user_input, ctx)
-        st.session_state.messages.append({"role": "assistant", "content": bot})
-        st.rerun()
+        try:
+            if len(user_input.strip()) == 0:
+                st.warning("Please enter a question.")
+            elif len(user_input) > 1000:
+                st.error("Question too long. Please keep it under 1000 characters.")
+            else:
+                st.session_state.messages.append({"role": "user", "content": user_input})
+                
+                document_name = find_relevant_document(user_input)
+                document_content = load_document(document_name)
+                
+                if document_content.startswith("Error:"):
+                    ai_response = "I'm having trouble accessing the relevant documents. Please try again or contact support."
+                else:
+                    ai_response = get_ai_response(user_input, document_content)
+                
+                st.session_state.messages.append({"role": "assistant", "content": ai_response})
+                st.rerun()
+            
+        except Exception as e:
+            st.error("An error occurred while processing your request. Please try again.")
+            print(f"Chat error: {type(e).__name__}: {str(e)}")
 # -------------------- DOCUMENT PAGE --------------------
 else:
     st.markdown("""
@@ -358,32 +375,41 @@ else:
         st.session_state.page = "chat"
         st.rerun()
 
-    def doc_card(title, file, color_class):
-        safe_title = html.escape(title)
-        st.markdown(f'<div class="doc-box {color_class}">{safe_title}</div>', unsafe_allow_html=True)
-        content = load_document(file)
-        c1, c2 = st.columns(2)
-        with c1:
-            if not content.startswith("Error:"):
-                st.download_button("⬇ Download", content, file, key=f"download_{file}")
-            else:
-                st.error("Download unavailable")
-        with c2:
-            if st.button(f"👁️ Preview", key=f"preview_{file}"):
-                st.session_state.preview_open = file
-                st.rerun()
-        
-        # Show preview with close button
-        if st.session_state.preview_open == file:
-            col_close, col_empty = st.columns([1, 4])
-            with col_close:
-                if st.button("❌ Close", key=f"close_{file}"):
-                    st.session_state.preview_open = None
+    def doc_card(title, filename, color_class):
+        """Display document card with secure content handling."""
+        try:
+            safe_title = html.escape(str(title), quote=True)
+            st.markdown(f'<div class="doc-box {color_class}">{safe_title}</div>', unsafe_allow_html=True)
+            
+            document_content = load_document(filename)
+            
+            col1, col2 = st.columns(2)
+            with col1:
+                if not document_content.startswith("Error:"):
+                    st.download_button("⬇ Download", document_content, filename, key=f"download_{filename}")
+                else:
+                    st.error("Download unavailable")
+            
+            with col2:
+                if st.button(f"👁️ Preview", key=f"preview_{filename}"):
+                    st.session_state.preview_open = filename
                     st.rerun()
-            if not content.startswith("Error:"):
-                st.text_area(f"📄 {title} Content:", content, height=300, key=f"content_{file}")
-            else:
-                st.error(content)
+            
+            if st.session_state.preview_open == filename:
+                close_col, _ = st.columns([1, 4])
+                with close_col:
+                    if st.button("❌ Close", key=f"close_{filename}"):
+                        st.session_state.preview_open = None
+                        st.rerun()
+                
+                if not document_content.startswith("Error:"):
+                    st.text_area(f"📄 {safe_title} Content:", document_content, height=300, key=f"content_{filename}")
+                else:
+                    st.error(document_content)
+                    
+        except Exception as e:
+            st.error(f"Error displaying document: {type(e).__name__}")
+            print(f"Document card error: {str(e)}")
 
     # All documents in 2-column layout
     documents = [
