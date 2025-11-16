@@ -1,0 +1,32 @@
+TRAVEL POLICY
+
+Policy Purpose: To outline procedures for booking, managing, and getting reimbursed for business-related travel.
+Applicability: Applies to all employees traveling for company purposes (e.g., client meetings, conferences, internal workshops).
+Mandatory Booking Tool: All airfare, hotels, and car rentals must be booked through the company's designated travel portal (e.g., Concur Travel or Egencia).
+Booking Exceptions: Booking outside the portal is a violation of policy, except in verified emergencies (requires VP approval).
+Travel Approval: All travel requires pre-approval from your direct manager via the travel portal *before* booking.
+Air Travel (Domestic): Employees must book Economy Class tickets.
+Air Travel (International): For flights over 8 hours (one way), Premium Economy or Business Class is permitted with manager approval.
+Booking Window: Flights should be booked at least 14 days in advance to secure lower fares.
+Airline Choice: Book the lowest-cost logical fare; preference for a specific airline is not a valid reason for higher cost.
+Baggage Fees: The company will reimburse fees for one checked bag for standard trips (under 1 week).
+Hotel Booking: Use the company portal to book pre-approved hotels within the specified "per diem" rate for the city.
+Hotel Rate Cap: A standard nightly rate cap of $200 (or local equivalent) applies unless in a high-cost city (e.g., NYC, London).
+Hotel Incidenals: Personal expenses (e.g., mini-bar, in-room movies, spa) are not reimbursable. Hotel Wi-Fi for work is reimbursable.
+Ground Transport (Airport): Use ride-sharing (Uber/Lyft) or standard taxis for transport to/from airports and hotels.
+Ground Transport (Local): Use public transit or ride-sharing. Limo/black car services are not reimbursable.
+Rental Cars: Only permitted if it is the most cost-effective option (e.g., cheaper than taxis for the duration) and must be pre-approved.
+Rental Car Class: Book a Mid-Size / Standard class. Luxury or sports vehicles are not permitted.
+Rental Car Insurance: Always decline the Collision Damage Waiver (CDW) and supplemental insurance; the company's corporate policy provides coverage.
+Meals Per Diem: Employees receive a daily allowance (per diem) for meals while traveling, based on the destination city.
+Per Diem Rate: E.g., $75 per day (domestic). This is an allowance, not a "use it or lose it" fund. Itemized receipts are still required.
+Personal Travel Combo: Extending a business trip for personal leisure is allowed, but the company only pays for the "business portion."
+"Bleisure" Fare Comparison: You must provide a "what-if" fare comparison showing the cost of the business-only flight, and you are responsible for any cost difference.
+Client Entertainment: Reasonable client dinners are reimbursable but must follow the rules in the reimbursement_policy.txt.
+Travel Documents: Employees are responsible for maintaining a valid passport; the company will pay for required business visas.
+Loyalty Programs: You may use your personal airline and hotel loyalty numbers to accrue points on business travel.
+Travel Insurance: The company provides comprehensive travel (medical and logistical) insurance for all employees on official trips.
+Safety & Security: Register your trip with the company's international travel-tracking provider (e.g., International SOS).
+Spouse/Partner Travel: The company does not pay for or reimburse any expenses for a spouse, partner, or family member.
+Cancellations: If a trip is canceled for business reasons, contact the travel desk immediately. Any personal cancellation fees are the employee's responsibility.
+Contact: For urgent, in-trip support, call the 24/7 Travel Desk hotline (number found in the portal).

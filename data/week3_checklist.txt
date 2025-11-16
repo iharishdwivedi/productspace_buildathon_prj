@@ -1,0 +1,32 @@
+WEEK3 CHECKLIST
+
+Goal: Transition from guided learning to independent contribution.
+Task Ownership: Aim to take ownership of a standard, medium-sized task from the backlog.
+Code/Work Submission: Independently submit your first significant piece of work (e.g., a pull request, a design draft, an analysis report).
+Incorporate Feedback: Actively seek and incorporate feedback from your team's review process.
+Team Ceremonies: Move from "observer" to "participant" in sprint planning or team meetings, offering estimates or opinions.
+Daily Stand-ups: Provide clear updates on your progress, plans, and any blockers.
+Manager 1:1: Discuss your 30/60/90-day goals and get your manager's sign-off.
+Project Roadmap: Review the product/project roadmap for the next quarter.
+Coffee Chats (Leadership): Schedule a coffee chat with your manager's manager or a team lead.
+Documentation: Contribute to the team wiki (Confluence); update any outdated documentation you find.
+Tool Mastery: Demonstrate proficiency in the primary tools (Jira, GitHub, Figma, etc.).
+Customer Focus: Sit in on a customer support call or review recent customer feedback (Zendesk tickets).
+Role-Specific Guide: Re-review your specific guide (engineer_guide.txt, designer_guide.txt, analyst_guide.txt) for best practices.
+Communication: Practice using the correct channel (Slack vs. Email vs. Jira) as per the communication_rules.txt.
+Networking: Identify 1-2 Subject Matter Experts (SMEs) in other departments related to your work.
+Company-Wide Meeting: Attend your first company-wide "All Hands" or "Town Hall" meeting.
+Performance Feedback: Ask your manager, "How am I pacing against your expectations for my first 30 days?"
+Onboarding Buddy: Schedule a check-out with your onboarding buddy to review Week 1-3.
+Team Knowledge: Understand your team's key metrics (KPIs) or objectives (OKRs).
+First Paycheck: Log in to the payroll system (Workday) and verify your first paycheck details.
+Home Office: Confirm all your home office equipment has arrived and is set up correctly.
+Benefits: Double-check that your insurance cards (digital or physical) have been received.
+Learning Portal: Set a goal to complete one certification path or course relevant to your role.
+Social: Attend a virtual team social event or an in-office team lunch.
+Team Processes: Be able to explain the team's workflow (e.g., "code to production") to someone else.
+Blockers: Practice identifying and clearly articulating any blockers you are facing.
+Submit Timesheet: Complete and submit your timesheet for Week 3.
+Review Company Values: Re-read the company_values.txt and find an example of one in action.
+Org Structure: Understand who the key leaders are in your department's "skip-level" structure.
+Look Ahead: Start looking at the backlog for potential tasks for the next sprint (Week 4).

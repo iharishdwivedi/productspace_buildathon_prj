@@ -1,0 +1,32 @@
+WORK POLICY
+
+Policy Objective: To outline the company's official work models, locations, and time-keeping expectations.
+Work Models Offered: Defines the company as a "Hybrid-First" organization.
+Hybrid Model: The standard model for most roles, requiring employees to be in-office 3 days per week.
+In-Office Days: Team managers designate "anchor days" (e.g., Tue, Wed, Thu) for team collaboration.
+Fully Remote: Available only for specific roles designated as "Remote-Only" in the job contract.
+Fully In-Office: Required for roles needing physical access to hardware, labs, or secure facilities.
+Core Working Hours: All employees must be online and available for collaboration between 10:00 AM and 4:00 PM.
+Standard Workday: A standard workday is 8 hours of work plus a 1-hour lunch break (total 9 hours).
+Work Hour Flexibility: Employees can flexibly schedule their 8 hours around the core (e.g., 9:00 AM - 6:00 PM).
+Attendance Tracking: In-office attendance is tracked via ID card swipes; remote attendance via HRMS login.
+Remote Work (WFH) Attire: Employees must maintain a professional appearance (business casual) for all video calls.
+WFH Environment: Employees are responsible for maintaining a safe, ergonomic, and quiet home workspace.
+WFH Connectivity: Employees must ensure stable, high-speed internet (minimum 50 Mbps) at their own expense.
+WFH Equipment: The company provides a laptop, monitor, and docking station; all other equipment (desk, chair) is the employee's responsibility.
+Data Security (WFH): All remote work must be done on company-provided VPN.
+Temporary WFH Requests: Employees in the Hybrid model can request temporary WFH for personal needs (e.g., deliveries, appointments) with manager approval.
+Sickness: If an employee is sick, they must take Sick Leave (SL), not work from home.
+Time-Tracking (Project-Based): Engineers and consultants must log their 8 hours daily into the project management tool (e.g., Jira, Asana).
+Overtime (OT): Overtime is not encouraged; any required OT must be pre-approved by a manager.
+Compensatory Off (Comp-Off): Approved OT for weekends or holidays can be claimed as Comp-Off leave.
+Lunch and Breaks: A standard 60-minute unpaid lunch break is mandatory, plus two 15-minute paid breaks.
+Work Location Changes: Employees must apply for any permanent change in their primary work location (e.g., moving to another city).
+Hot-Desking: In-office space operates on a hot-desking model; desks are booked via the "OfficeSpace" app.
+Personal Appointments: Must be scheduled outside of core working hours or by taking short leave.
+Client-Site Work: Employees at a client site must follow the client's work policy and the company's Code of Conduct.
+Right to Disconnect: Employees are not expected to respond to non-urgent emails or messages outside their working hours.
+"No-Meeting" Zones: Wednesdays 2:00 PM - 5:00 PM is designated for deep work; meetings are discouraged.
+Punctuality: All employees are expected to be online or at their desk by their scheduled start time.
+Absence Notification: If unable to work, the manager must be notified via chat/email before 9:30 AM.
+Policy Adherence: Failure to adhere to work and attendance policies may lead to disciplinary action.

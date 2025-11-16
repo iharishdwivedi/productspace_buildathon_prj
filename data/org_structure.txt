@@ -1,0 +1,42 @@
+HIGH-LEVEL COMPANY ORGANIZATIONAL STRUCTURE
+
+1. Model: The company operates on a Matrix Structure, with functional departments (e.g., Engineering) and project-based business units.
+2. Executive Leadership: Headed by the Chief Executive Officer (CEO).
+3. CEO Direct Reports: The CEO's direct reports form the C-Suite (e.g., CTO, CFO, CRO).
+4. Board of Directors: Oversees the C-Suite and long-term company strategy.
+
+Key Functional Departments
+
+5. Technology & Engineering: Led by the Chief Technology Officer (CTO).
+6. CTO Sub-units: Core Engineering, DevOps, Site Reliability (SRE), and IT.
+7. Product: Led by the Chief Product Officer (CPO).
+8. CPO Sub-units: Product Management, UX/UI Design, and User Research.
+9. Revenue (Go-To-Market): Led by the Chief Revenue Officer (CRO).
+10. CRO Sub-units: Sales, Marketing, and Customer Success.
+11. Finance: Led by the Chief Financial Officer (CFO).
+12. CFO Sub-units: Accounting, Payroll, Financial Planning & Analysis (FP&A), and Procurement.
+13. People & Culture: Led by the Chief People Officer (CPO) / CHRO.
+14. CHRO Sub-units: Human Resources (HRBPs), Talent Acquisition, and Learning & Development (L&D).
+15. Operations: Led by the Chief Operating Officer (COO).
+16. COO Sub-units: Business Operations, Legal, and Facilities.
+
+Core Operational Units
+
+17. Engineering (Core): Managed by the VP of Engineering.
+18. Engineering Teams: Structured into "Squads" or "Pods" (e.g., "Payments Squad," "Mobile Squad").
+19. DevOps/SRE: Responsible for cloud infrastructure, CI/CD pipelines, and system uptime.
+20. IT Services: Manages internal tools, hardware, and the employee helpdesk.
+21. Product Management: PMs are embedded within engineering squads but report to the Product department.
+22. UX/UI Design: Designers are embedded in squads, ensuring a user-centric development process.
+23. Sales: Divided by segment (e.g., Enterprise, Mid-Market, SMB) and region (e.g., NA, EMEA, APAC).
+24. Marketing: Divided by function (e.g., Product Marketing, Demand Generation, Brand).
+25. Customer Success: Manages post-sales relationships, onboarding, and renewals.
+
+Your Place in the Structure
+
+26. Finding Your Manager: Your direct line manager is listed in the HRMS (Workday).
+27. "Skip-Level": Your manager's manager is your "skip-level" manager.
+28. HR Business Partner (HRBP): Each department is assigned a specific HRBP for strategic support.
+29. Project Teams: You will receive day-to-day direction from your Team Lead or Project Manager.
+30. Directory Tool: Use directory.company.com to find any employee and see their reporting line.
+

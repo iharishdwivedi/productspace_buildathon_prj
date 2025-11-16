@@ -1,0 +1,32 @@
+WEEK1 CHECKLIST
+
+Day 1: Complete IT hardware setup (laptop, MFA, VPN).
+Day 1: Log in to core systems: Email, Slack/Teams, and HRMS (Workday).
+Day 1: Send a "Hello" email to your manager and team.
+Day 1: Review the important_contacts.txt and bookmark key portals (IT, HR).
+Day 1: Complete your Day 1 virtual check-in with the Onboarding Coordinator.
+Day 1: Review the company_values.txt and org_structure.txt.
+Day 1: Set up your email signature using the standard company template.
+Day 1: Update your profile in the HRMS (Workday) with emergency contact info.
+Day 1: Update your profile in Slack/Teams (add a photo, role, and pronouns).
+Day 2: Schedule 15-minute intro "coffee chats" with all members of your immediate team.
+Day 2: Schedule your first 1:1 meeting with your manager.
+Day 2: Review the leave_policy.txt and work_policy.txt.
+Day 2: Understand your team's "anchor days" for in-office work (if hybrid).
+Day 2: Access and review the benefits.txt document.
+Day 3: Enroll in benefits (health insurance, retirement) via the HRMS portal.
+Day 3: Read and formally acknowledge the code_of_conduct.txt.
+Day 3: Read and formally acknowledge the security_guidelines.txt.
+Day 3: Access the Learning portal (Coursera/Pluralsight) and browse the catalog.
+Day 3: Join your role-specific Slack channels (e.g., #eng-frontend, #design-system).
+Day 4: Complete all mandatory "New Hire" compliance training (e.g., Security Awareness, Anti-Harassment).
+Day 4: Review the tools_onboarding.txt and ensure you have access to your role-specific tools (Jira, GitHub, Figma).
+Day 4: Set up your development environment (if applicable) using the engineer_guide.txt.
+Day 4: Attend the company-wide New Hire Orientation session (usually held on Thursday).
+Day 5: Discuss and set initial 30/60/90-day goals with your manager.
+Day 5: Understand the team's project board (Jira/Asana) and key ceremonies (sprint planning, stand-ups).
+Day 5: Complete your first weekly timesheet (if required).
+Day 5: Pick your first "starter task" or "good first issue" from the backlog.
+Day 5: Review the reimbursement_policy.txt and payroll_faq.txt.
+Day 5: Order your home office equipment (monitor, chair) via the IT portal.
+Day 5: Send a "Week 1 Wrap-up" email to your manager (learnings, questions).

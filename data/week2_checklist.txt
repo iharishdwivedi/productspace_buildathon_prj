@@ -1,0 +1,32 @@
+WEEK2 CHECKLIST
+
+Goal: Shift from "Setup" to "Learning & Integration."
+Participation: Actively participate in all daily team stand-up meetings.
+Project Immersion: Review the last 3-6 months of project documentation in Confluence.
+Code/Work Review: Shadow a teammate; review their code (PR) or work (design file/report).
+Manager 1:1: Come prepared to your second manager 1:1 with specific questions about team processes and goals.
+Tasking: Aim to complete 1-2 small, well-defined tasks (e.g., bug fixes, documentation updates).
+Team Process: Understand the team's "Definition of Done" for a task.
+Team Process: Review the team's branching strategy and code review guidelines (if applicable).
+Coffee Chats (Cross-functional): Schedule 1-2 coffee chats with people *outside* your immediate team (e.g., in Product, Design, or QA).
+Product Knowledge: Attend a demo of the company's main product or service.
+Architecture Review: (If Engineer) Review the high-level system architecture diagrams.
+Design System Review: (If Designer) Review the Figma design system and component library.
+Data Dashboard Review: (If Analyst) Review the primary data dashboards (e.g., in Tableau/Power BI).
+Customer Persona: Understand the key customer personas the team builds for.
+Competitor Review: Identify and review the top 2-3 competitors.
+HR Check-in: Confirm your benefits enrollment is complete and correct in the HRMS.
+Payroll Check-in: Confirm your bank details and tax information are correctly entered in the payroll system.
+Tooling: Explore advanced features of the primary tools (e.g., Jira filters, Slack reminders).
+Internal Groups: Join at least one non-work-related Slack channel (e.g., #pets, #hobby-coding, #gaming).
+Employee Resource Groups (ERGs): Review the list of ERGs and consider joining one.
+Performance Goals: Begin drafting your 90-day performance goals in the HRMS.
+Ask for Feedback: Ask your manager or team "buddy" for initial feedback on your first tasks.
+Learning Portal: Complete at least one technical or soft-skill course from the company's learning platform.
+Team Calendar: Understand the team's recurring meetings (e.g., Sprint Planning, Retrospective).
+Hardware: Confirm your requested home office equipment (monitor, etc.) has an estimated delivery date.
+Office Visit: (If hybrid) Complete your first in-office "anchor day" successfully.
+Travel Policy: Review the travel_policy.txt if your role involves travel.
+Communication Rules: Review the communication_rules.txt for etiquette.
+Submit Timesheet: Complete and submit your timesheet for Week 2.
+Peer "Buddy": Check in with your assigned onboarding buddy with any "silly questions" you've saved up.

@@ -1,0 +1,32 @@
+WEEK4 CHECKLIST
+
+Goal: Solidify routine, demonstrate autonomy, and prepare for the 30-day review.
+Autonomy: Independently pull, work on, and complete tasks from the sprint backlog.
+Task Estimation: Participate in task estimation (story pointing) for the upcoming sprint.
+Reviewing Others: Participate in the review process for a teammate's work (e.g., code review, design review).
+Sprint Retrospective: Actively contribute to your first team retrospective meeting.
+Sprint Planning: Actively contribute to your first sprint planning meeting.
+Manager 1:1 (30-Day Review): Prepare for your 30-day review with your manager.
+30-Day Review Prep: List your accomplishments and learnings from the first month.
+30-Day Review Prep: List any remaining questions, blockers, or areas where you need support.
+Feedback: Formally ask your manager, "What should I *start*, *stop*, and *continue* doing?"
+Finalize 90-Day Goals: Finalize and get manager approval for your 90-day goals in the HRMS.
+Onboarding Survey: Complete the "New Hire 30-Day" survey sent by HR.
+"Buddy" Wrap-up: Have a final official meeting with your onboarding buddy to thank them and share feedback.
+Cross-Functional Knowledge: Understand how your team's work impacts at least one other team (e.g., how your code affects the QA team).
+Networking: Have coffee chats with all key contacts identified in Week 2.
+Product Knowledge: Be able to give a 2-minute "elevator pitch" of your team's product or service.
+Tooling: Customize your tools for productivity (e.g., set up IDE shortcuts, Slack keywords, Jira dashboards).
+Expenses: Submit your first expense report (if you had any, like for home office setup).
+Team Contribution: Find one small way to help a teammate (e.g., answer a question, help debug).
+Internal Docs: Ensure all your work from the first month is properly documented in Confluence or in code comments.
+Performance Metrics: Understand the 1-2 key metrics (KPIs) your manager will use to evaluate your performance.
+Long-Term Learning: Identify 1-2 longer-term skills you want to develop in your role.
+HRMS Check: Do a final check of the HRMS for any pending tasks (e.g., policy acknowledgments, tax forms).
+Company Culture: Reflect on the company_values.txt and how they apply to your team's work.
+Social Engagement: Make an effort to connect with a colleague on a non-work topic.
+Directory: Be able to find anyone in the company using the internal directory.
+Submit Timesheet: Complete and submit your timesheet for Week 4.
+Future Planning: Discuss with your manager what a "successful" Quarter 1 looks like for you.
+Celebrate: Acknowledge your completion of the first month.
+Graduation: You have now officially "graduated" from the new hire onboarding program.

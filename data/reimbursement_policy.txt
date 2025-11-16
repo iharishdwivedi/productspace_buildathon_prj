@@ -1,0 +1,32 @@
+REIMBURSEMENT POLICY
+
+Policy Purpose: To define the process and rules for reimbursing employees for reasonable, necessary, and approved business-related expenses.
+Eligibility: Applies to all active, full-time employees. Contractors and vendors follow invoicing procedures.
+Guiding Principle: All expenses submitted must be for legitimate business purposes and "reasonable."
+Submission Platform: All expense claims must be submitted via the official expense tool (e.g., SAP Concur or Expensify).
+Submission Deadline: Expenses must be submitted within 30 days of the date the expense was incurred.
+Receipt Requirement: An original, itemized digital receipt (or photo) is mandatory for every expense.
+"No Receipt, No Reimbursement": Claims submitted without a clear, itemized receipt will be rejected.
+Credit Card Statements: Not accepted as a valid receipt, as they are not itemized.
+Manager Approval: All expense reports are routed to your direct manager for first-level approval.
+Finance Audit: The finance department audits all approved claims before payout.
+Payout Timeline: Approved reimbursements will be paid out via direct deposit in the next available payroll cycle.
+Non-Reimbursable Expenses: Fines (parking, speeding), personal items, daily commute to the office, childcare, and internal team lunches (without pre-approval).
+Local Travel: Use of taxis or ride-sharing (Uber/Lyft) for business meetings, client visits, or travel to the airport is reimbursable.
+Business Meals (with Client): Reimbursable. Must include the names of all attendees and the business purpose in the claim.
+Business Meals (Internal): Meals with internal colleagues are *not* reimbursable unless part of a pre-approved, formal team event.
+Alcohol: When dining with clients, alcohol is reimbursable but should not exceed 25% of the total, itemized meal bill.
+Home Office (Stipend): The $50/month Internet/Phone stipend (see benefits.txt) is the primary compensation for remote work.
+Home Office (Hardware): Do not purchase your own equipment (monitors, keyboards, chairs). Request these via the IT Service Portal.
+Home Office (Supplies): Small, incidental office supplies (e.g., pens, notebooks) under $50 per quarter are reimbursable.
+Software & Subscriptions: Do not purchase software or subscriptions. All software must be procured via the IT department.
+Professional Development: To claim against your $1,000 L&D fund (see benefits.txt), submit the receipt via the expense tool with the "L&D" category.
+Certification Exams: Fees for pre-approved professional certifications are reimbursable *after* you have passed the exam.
+Currency Conversion: For international expenses, the expense tool will handle conversion; attach the original foreign currency receipt.
+Personal Travel: If business travel is extended for personal time, only the business-related portions (e.g., the "work-day" flights) are reimbursable.
+Travel Expenses: All air, hotel, and car rental expenses must be booked using the company travel tool (see travel_policy.txt).
+Report Frequency: Submit one consolidated expense report at the end of each month, not multiple individual reports.
+Expense Corrections: If a claim is rejected, your manager will add a comment; correct the claim and resubmit.
+Lost Receipts: In rare cases of a lost receipt, a "Missing Receipt Affidavit" can be filled out, but this is limited to 2 per year.
+Contact: For policy questions, email expenses@company.com. For tool issues, contact the IT Service Desk.
+Policy Violation: Falsification of expense reports is a direct violation of the code_of_conduct.txt and will lead to disciplinary action.

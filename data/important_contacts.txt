@@ -1,0 +1,46 @@
+KEY COMPANY CONTACTS AND HELPLINES
+
+1. Emergency (Office): Call 911 (or local equivalent) first, then Security Desk (x5555)
+2. IT Service Desk (General): For all technical issues (laptop, software, login)
+   - Portal: servicedesk.company.com
+   - Chat: "IT Help" Bot
+   - Phone: x4357 (HELP)
+3. Password Reset (Self-Service): password.company.com
+4. Hardware Support (Laptop/Mobile): Submit ticket via IT Service Desk portal
+5. Software Access Requests: Submit ticket via IT Service Desk portal (requires manager approval)
+6. Network Operations Center (NOC): For system outages or network failure (Managers only) - Phone: x8200
+7. Information Security (SecOps): To report a virus, phishing attempt, or data breach - Email: security@company.com
+8. HR Helpdesk (General): For questions on policy, benefits, or employee data
+   - Portal: hr.company.com
+   - Email: ask_hr@company.com
+9. HR Business Partner (HRBP): For career development or sensitive/personal concerns (Find your HRBP in the org chart)
+10. Benefits Team: For specific questions about insurance, retirement, or leave - Email: benefits@company.com
+11. Payroll Department: For questions about salary, deductions, or tax forms - Email: payroll@company.com
+12. Talent Acquisition (Recruiting): For questions about internal roles or employee referrals - Email: recruiting@company.com
+13. Finance Helpdesk: For general finance queries - Email: finance_desk@company.com
+14. Expense Reimbursements (AP): For issues with submitting or receiving expense claims - Email: expenses@company.com
+15. Travel Desk: For booking business travel (flights, hotels, cars)
+    - Vendor Portal: travel.company.com
+    - Urgent Travel Support (24/7): +1-800-555-1234
+16. Facilities (In-Office): For issues with lighting, temperature, or office maintenance - Portal: facilities.company.com
+17. Office Security Desk: For access card issues, lost property, or safety escorts - Phone: x5555
+18. Conference Room AV Support: For help with video conferencing or projectors
+    - Chat: "AV Support"
+    - Phone: x4358
+19. Legal Department: For contract reviews or legal queries (Managers only) - Email: legal@company.com
+20. Ethics & Compliance Hotline: For anonymous reporting of Code of Conduct violations
+    - Web: ethics.company.com/report
+    - Phone (Toll-Free): +1-888-555-0011
+21. Employee Assistance Program (EAP): 24/7 confidential counseling (mental, financial, legal)
+    - Provider: WellnessCorp
+    - Phone: +1-800-222-3333
+22. Wellness Team: For questions about gym benefits or wellness programs - Email: wellness@company.com
+23. Employee Resource Groups (ERGs): Info on joining groups (e.g., Women in Tech, Pride, etc.) - Internal Site: diversity.company.com
+24. Learning & Development (L&D): For questions about training or certifications - Email: learning@company.com
+25. Corporate Communications: For media inquiries or internal announcements - Email: comms@company.com
+26. Procurement: For purchasing software, hardware, or services - Portal: procure.company.com
+27. Onboarding Coordinator: Your dedicated contact for the first 90 days - Email: newhires@company.com
+28. Main Reception (HQ): x1000
+29. Mailroom / Shipping: For business-related shipping and receiving - Email: mailroom@company.com
+30. Company Directory (Internal): directory.company.com (Find any employee)
+

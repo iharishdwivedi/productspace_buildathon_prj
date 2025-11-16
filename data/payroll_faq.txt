@@ -1,0 +1,32 @@
+PAYROLL FREQUENTLY ASKED QUESTIONS
+
+1. When do I get paid? - Payday is the last business day of the month.
+2. What is the pay period? - The pay period covers the 1st of the month to the last day of the month.
+3. How do I access my payslip? - Payslips are available 2 days before payday in the HRMS (e.g., Workday) under the "Pay" section.
+4. Will I receive a paper payslip? - No, the company is fully paperless. Payslips are 100% digital.
+5. How do I set up or change my bank details (direct deposit)? - You can add or update your bank account information in the HRMS under "Payment Elections."
+6. How long does it take for bank detail changes to take effect? - Changes must be made at least 5 business days before payday to apply to the current cycle.
+7. What's the difference between 'Base Salary' and 'Gross Salary'? - "Base Salary" is your fixed annual pay. "Gross Salary" is the amount you earned this pay period before any deductions.
+8. What's the difference between 'Gross Salary' and 'Net Salary'? - "Net Salary" (or "Take-Home Pay") is the final amount deposited into your account after all taxes and deductions.
+9. What deductions are taken from my pay? - Standard deductions include: Federal/State Taxes, Retirement (401k/PF), Health Insurance, and other voluntary deductions.
+10. How do I change my tax withholding (e.g., W-4)? - You can update your tax withholding forms directly in the HRMS.
+11. Why did my net pay change this month? - Common reasons: bonus payout (taxed differently), end of a benefit deduction, or changes in tax withholding.
+12. Who do I contact if my pay seems incorrect? - Submit a confidential ticket to the payroll@company.com helpdesk.
+13. How is my bonus taxed? - Bonuses are considered supplemental income and are taxed at a higher, flat withholding rate set by tax authorities.
+14. How is overtime calculated and paid? - Overtime (for eligible, non-exempt employees) is paid at 1.5x the normal rate and will appear on the following month's payslip.
+15. How are reimbursements (expenses) paid? - Approved expense reports are paid out in a separate payment, not bundled with your main salary.
+16. How does Leave Without Pay (LWOP/LOP) affect my salary? - Your gross salary will be reduced on a pro-rata basis for each day of unpaid leave.
+17. How does my retirement (401k) contribution appear? - You will see both your contribution ("Employee Deduction") and the company's contribution ("Company Match").
+18. When does the company match for retirement start? - The company match begins after your 90-day probation period.
+19. What happens to my pay if I join mid-month? - Your first paycheck will be pro-rated for the number of days you worked in that pay period.
+20. What happens to my final pay when I leave? - Your final pay, including any accrued/unused Privilege Leave, will be paid on the regular payday for your last month.
+21. How do I get my annual tax summary (e.g., W-2 / Form 16)? - These will be made available digitally in the HRMS (Workday) by the legal deadline (e.g., January 31st).
+22. Can I get a pay advance? - No, the company does not offer salary advances.
+23. How do I get an employment verification letter (for a loan/rent)? - You can auto-generate this from the HRMS portal (Workday) or email ask_hr@company.com.
+24. What is a 'Benefit Deduction Holiday'? - If there are 5 Fridays in a month (and you are paid bi-weekly), some months have a 3rd paycheck where benefit deductions are not taken.
+25. My pay is monthly, not bi-weekly. Why? - Our standard company-wide pay cycle is monthly, paid on the last business day.
+26. How is my 'pay-in-lieu' (e.g., for notice period) calculated? - This is calculated based on your last-drawn base salary.
+27. Who sees my salary information? - Your salary is highly confidential. Only your manager, HRBP, and the payroll/finance team have access.
+28. How do I enroll in the Employee Stock Purchase Plan (ESPP)? - ESPP enrollment windows open twice a year (June, December). You can opt-in via the Benefits portal.
+29. How are ESPP deductions shown? - This will appear as a separate post-tax deduction on your payslip during the purchase period.
+30. Who do I contact for more questions? - For any payroll-specific, confidential questions, please email payroll@company.com.

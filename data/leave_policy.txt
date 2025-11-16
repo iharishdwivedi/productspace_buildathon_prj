@@ -1,0 +1,32 @@
+LEAVE POLICY
+
+Policy Purpose: Defines rules for accruing, requesting, and utilizing leave to ensure work-life balance.
+Eligibility: Applies to all full-time permanent employees; contract staff governed by separate agreements.
+Leave Year: Follows the calendar year (January 1st to December 31st).
+Leave Categories: Defines standard types: Privilege/Earned Leave (PL), Casual Leave (CL), and Sick Leave (SL).
+Privilege Leave (PL) Accrual: Employees accrue 1.5 days of PL per month of service.
+Casual Leave (CL) Quota: Annual quota of 8 days for personal matters or unforeseen events.
+Sick Leave (SL) Quota: Annual quota of 10 days for medical recovery.
+Probation Period Rules: New hires cannot take PL during the first 3 months of probation; CL/SL available pro-rata.
+Carry Forward (PL): Up to 15 days of unused PL can be carried forward to the next year.
+Lapsing Leaves: Unused CL and SL lapse at the end of the year; they cannot be carried forward.
+Leave Encashment: Only PL exceeding 30 days is eligible for encashment upon resignation (not annually).
+Application Process: All leaves must be applied for via the HRMS portal.
+Notice Period (Planned Leave): PL requests exceeding 3 days require 2 weeks' prior notice.
+Notice Period (Unplanned Leave): For sudden sick leave, manager must be notified by 9:30 AM on the day of absence.
+Medical Certificate Requirement: SL exceeding 3 consecutive days requires a doctor’s fitness certificate.
+Maternity Leave: 26 weeks of paid leave for female employees (as per government mandate).
+Paternity Leave: 10 days of paid leave for new fathers, to be taken within 3 months of birth.
+Bereavement Leave: 3 days of paid leave in the event of the death of an immediate family member.
+Compensatory Off (Comp-Off): Granted for working on weekends/holidays with manager approval; must be used within 30 days.
+Leave Sandwich Rule: Weekends falling between leave days are counted as leave days (e.g., Fri + Mon leave = 4 days).
+Short Leave: Up to 2 hours of short leave permitted twice a month without deduction.
+Half-Day Leave: Leaves can be taken in 0.5 day increments (Morning or Afternoon session).
+Loss of Pay (LOP): Absences exceeding available leave balance result in salary deduction.
+Unauthorized Absence: Absence without notice for >3 days is treated as abandonment of post and triggers disciplinary action.
+Leave During Notice Period: Resigning employees cannot take PL during their notice period.
+Public Holidays: List of 10 mandatory holidays and 2 restricted/optional holidays per year.
+Sabbatical Policy: Unpaid sabbatical allowed after 5 years of service (subject to approval).
+Work From Home (WFH) vs. Leave: WFH is not a substitute for Sick Leave; if too ill to work, SL must be taken.
+Manager Discretion: Managers may reject planned leave during critical project deliveries or "blackout periods."
+Policy Review: HR reserves the right to amend leave policies annually.

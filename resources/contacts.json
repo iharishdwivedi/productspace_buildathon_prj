@@ -1,0 +1,24 @@
+{
+  "emergency_contacts": {
+    "hr": {
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@company.com",
+      "phone": "ext. 1100"
+    },
+    "it_support": {
+      "name": "IT Help Desk",
+      "email": "it-support@company.com", 
+      "phone": "ext. 2200"
+    },
+    "security": {
+      "name": "Security Desk",
+      "email": "security@company.com",
+      "phone": "ext. 3000"
+    }
+  },
+  "department_heads": {
+    "engineering": "Mike Chen - mike.chen@company.com",
+    "marketing": "Lisa Park - lisa.park@company.com", 
+    "sales": "David Wilson - david.wilson@company.com"
+  }
+}

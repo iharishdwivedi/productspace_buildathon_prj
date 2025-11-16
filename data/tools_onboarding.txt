@@ -1,0 +1,33 @@
+TOOLS ONBOARDING
+
+Purpose: An overview of the primary software platforms you will use daily.
+Single Sign-On (SSO): We use Okta (or a similar service) as our SSO provider. Log in here once to access most other tools.
+Communication (Internal): Slack is used for all real-time team chat, announcements, and quick questions.
+Slack Channels: You will be auto-added to your team, department, and "all-hands" channels.
+Communication (External/Formal): Microsoft Outlook (or Gmail) is used for all formal email, client communication, and company-wide newsletters.
+Video Conferencing: Zoom is our primary tool for internal and external video meetings.
+Calendar: Your Outlook Calendar is the single source of truth for scheduling; keep it up to date.
+Project Management (Agile): Jira is used by all engineering and product teams to track sprints, tasks, and bugs.
+Project Management (Non-Tech): Asana (or Trello) is used by marketing, HR, and operations for task tracking.
+Documentation (Internal): Confluence is our internal wiki for all project documentation, meeting notes, and team knowledge bases.
+Documentation (HR/Company): SharePoint (or Google Drive) is where all official company documents (like this one) and HR forms are stored.
+HR Information System (HRIS): Workday (or BambooHR) is your main portal for personal data, pay stubs, leave requests, and performance reviews.
+Code Repository: GitHub (or GitLab/Bitbucket) is where all company code is stored, reviewed, and managed.
+CI/CD: Jenkins (or GitLab CI) is integrated with our repositories for automated builds, testing, and deployments.
+Design (UI/UX): Figma is the collaborative tool used by design and product teams for wireframes, mockups, and prototypes.
+Design (Graphics): Adobe Creative Cloud is provided to all designers for graphic design and video production.
+Cloud Infrastructure: We are primarily an AWS (or Azure/GCP) shop. Developers will get access to specific services.
+Customer Relationship Mgmt (CRM): Salesforce is used by sales, marketing, and support teams to manage customer data.
+Customer Support: Zendesk is used by the support team to manage all customer-facing tickets.
+Password Management: 1Password (or LastPass) is provided for securely storing and sharing all work-related credentials.
+Expense Reporting: SAP Concur (or Expensify) is the platform for submitting all travel and expense reimbursements.
+Learning & Development: Coursera (or Pluralsight) is our online learning platform; all employees have a full license.
+Employee Engagement: Culture Amp (or a similar tool) is used for quarterly employee satisfaction surveys.
+Internal Recognition: Bonusly (or a similar tool) is used for peer-to-peer recognition and rewards.
+Scheduling (External): Calendly is provided to sales and management for scheduling meetings with external parties.
+Network Drive: Your "U: Drive" (or G-Drive) is your personal, backed-up network storage for working files.
+Shared Drive: Your "S: Drive" is the shared network drive for your specific department or team.
+Requesting Access: Access to specialized tools (e.g., AWS, Salesforce) is not default; request it via the IT Service Desk.
+Tool Etiquette: Do not use internal tools (like Slack) for client communication; use email or Zoom.
+Training: Check the Learning portal for specific video training courses for Jira, Confluence, and Figma.
+Would you like me to proceed to the next document (security_guidelines.txt)?

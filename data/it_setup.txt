@@ -1,0 +1,32 @@
+IT SETUP
+
+Welcome: Introduction to the IT team and the setup process.
+Hardware Provided: Your box contains: 1x Laptop (MacBook Pro / Dell XPS), 1x Power Adapter, 1x Dongle/Adapter.
+Inspect Hardware: Before powering on, check for any physical damage from shipping.
+First Boot-Up: Power on your laptop; it is pre-imaged and will guide you through initial setup.
+Network Connection: Connect to your secure home Wi-Fi network (or office network if on-site).
+Corporate Login: Use the temporary username and password provided in your "Welcome" email from IT.
+Password Reset: You will be forced to change your password on first login.
+Password Requirements: Must be 14+ characters, include upper/lower case, a number, and a special character.
+Multi-Factor Authentication (MFA): Immediate setup of MFA is mandatory.
+MFA Method: Download "Okta Verify" or "Microsoft Authenticator" on your mobile device.
+MFA Scan: Scan the QR code on your laptop screen with the authenticator app to link your account.
+MFA Backup: Set up a secondary MFA method (e.g., SMS or phone call).
+VPN Setup: Connect to the company's Virtual Private Network (VPN).
+VPN Client: The "Cisco AnyConnect" or "GlobalProtect" client is pre-installed.
+VPN Connection: Log in to the VPN using your new corporate credentials and the MFA prompt.
+Email Setup: Launch the pre-installed "Outlook" or "Gmail" client.
+Email Login: Your account should be configured automatically; if not, log in with your corporate email/password.
+Chat/Collaboration Tool: Launch "Slack" or "Microsoft Teams."
+Chat Login: Log in using the Single Sign-On (SSO) option (it will use your Okta/MFA).
+Software Updates: Check for and install any pending system or software updates.
+Company Software Portal: Access the "Software Center" or "Jamf Self Service" to install optional, pre-approved applications.
+Default Applications: Your machine already has: Office 365, VS Code, Chrome, and security software.
+Antivirus: Antivirus (CrowdStrike/Defender) is pre-installed and managed by IT; do not disable it.
+Disk Encryption: Full-disk encryption (BitLocker/FileVault) is enabled by default.
+Printer Setup: Instructions for connecting to office network printers or home printers.
+HRMS Portal: Bookmark the HR portal (hr.company.com) and log in to verify your profile.
+Password Manager: Set up your "1Password" or "LastPass" corporate vault.
+Hardware Request: To request peripherals (monitor, keyboard, mouse), use the IT Service Desk portal.
+IT Service Desk: For any setup issues, contact the IT Service Desk (x4357 or servicedesk.company.com).
+Final Step: Send a confirmation email to your manager and the onboarding coordinator once setup is complete.

@@ -1,0 +1,33 @@
+SECURITY GUIDELINES
+
+Your Responsibility: You are the first line of defense for company security.
+Password Policy (Length): All passwords must be a minimum of 14 characters.
+Password Policy (Complexity): Must include uppercase, lowercase, numbers, and symbols.
+Password Uniqueness: Never reuse passwords across different systems.
+Password Manager: Use the company-provided password manager (e.g., 1Password) to store all credentials.
+Multi-Factor Authentication (MFA): MFA is mandatory on all accounts that support it (SSO, email, code repos).
+Phishing Awareness: Be suspicious of any email demanding urgent action, asking for credentials, or containing unexpected attachments.
+Reporting Phishing: If you receive a suspicious email, use the "Report Phishing" button in Outlook or forward it to security@company.com.
+Clicking Links: Do not click links or download attachments from unknown or unverified senders.
+Data Classification (Public): Data intended for public consumption (e.g., marketing materials, press releases).
+Data Classification (Internal): Data for internal company use, not highly sensitive (e.g., team-wide documents).
+Data Classification (Confidential): Sensitive data that must be protected (e.g., client lists, project code, financial reports).
+Data Classification (Restricted): Highly sensitive data (e.g., PII, passwords, HR records) with a strict "need-to-know" access.
+Data Handling: Never email Confidential or Restricted data to personal accounts or upload it to unapproved cloud services.
+Acceptable Use: Company equipment (laptops, phones) is for business use; incidental personal use is permitted but monitored.
+Prohibited Software: Do not install unauthorized, unlicensed, or "cracked" software on your company laptop.
+Software Installation: All new software must be requested through the IT Software Portal.
+Public Wi-Fi: Avoid using public, unsecured Wi-Fi (e.g., cafes, airports). If you must, ensure the VPN is always connected.
+VPN Usage: The VPN must be connected whenever you are working remotely or outside the office.
+Physical Security (Office): Always wear your ID badge; do not tailgate or let others follow you into the building.
+Physical Security (Visitors): All visitors must be registered and escorted by an employee.
+Clean Desk Policy: Lock your screen (Win+L / Cmd+Ctrl+Q) every time you step away from your desk.
+End-of-Day Security: Secure all sensitive documents in locked cabinets; do not leave laptops in the office overnight.
+Remote Work Security: Ensure your home Wi-Fi network is secured with a strong WPA2/WPA3 password.
+Device Security: Never leave your company laptop unattended in a public place (e.g., car, coffee shop).
+Device Loss/Theft: Report a lost or stolen laptop or phone to the IT Service Desk immediately (within 1 hour).
+USB / Removable Media: Do not plug in unknown USB drives; use of removable media is generally restricted.
+Social Engineering: Be wary of attempts to gain information over the phone or via chat (e.g., someone pretending to be from IT).
+Incident Reporting: Report any security weakness, suspected breach, or policy violation to security@company.com immediately.
+Annual Training: All employees must complete the mandatory security awareness training once per year.
+Would you like me to proceed to the next document (week1_checklist.txt)?

@@ -1,0 +1,277 @@
+COMPREHENSIVE EMPLOYEE ONBOARDING GUIDE - SUMMARY
+
+=== EMPLOYEE BENEFITS AND PERKS ===
+• Health Insurance: GMC for employee, spouse, and 2 children with $5,000 family floater plan
+• Parental Coverage: Add parents to medical plan at subsidized co-payment
+• Life Insurance: Personal Accident (3x salary) + Term Life (2x salary) coverage
+• Annual Health Check-up: Free comprehensive screening for all employees
+• Retirement: 401k/PF with 100% company match up to 4% of base salary
+• Wellness: $300 annual stipend for gym/fitness + Employee Assistance Program (24/7 counseling)
+• Home Office: $500 one-time setup allowance + $50 monthly internet/phone reimbursement
+• Professional Development: $1,000 annual fund for certifications/courses + $5,000 tuition assistance
+• Learning Access: Free Pluralsight, Coursera, and O'Reilly subscriptions
+• Stock Options: ESPP with 15% discount on company stock
+• Bonuses: Annual performance bonus + referral bonus ($1,000-$5,000)
+• Meal Benefits: Subsidized cafeteria meals and digital meal vouchers
+• Transportation: Free shuttle/cab services for office employees
+• Family Support: 26 weeks maternity + 10 weeks paternity + $2,000 adoption assistance
+• Relocation: Comprehensive moving package for role-based relocations
+• Flexible Benefits: FSA for medical/dependent care + commuter benefits
+• Recognition: Service awards at 5, 10, 15 years + volunteer time off (2 days/year)
+
+=== CODE OF CONDUCT AND ETHICS ===
+• Zero Tolerance: No harassment, bullying, or discrimination of any kind
+• Equal Opportunity: Commitment to diversity regardless of race, gender, religion, age, disability
+• Professionalism: Maintain respectful, collaborative demeanor with all stakeholders
+• Conflict of Interest: Avoid personal/financial interests conflicting with company duties
+• Confidentiality: Protect company, client, and employee data at all times
+• Asset Protection: Use company property responsibly for legitimate business purposes
+• Intellectual Property: All work created during employment belongs to company
+• Insider Trading: Prohibited from trading on non-public information
+• Gift Policy: Modest gifts acceptable, bribes and high-value items forbidden
+• Data Privacy: Comply with GDPR, CCPA and all data protection laws
+• Acceptable Use: Company internet/email for business use, no illegal/offensive content
+• Social Media: Personal opinions don't represent company policy, no confidential info sharing
+• Dress Code: Business casual appearance, especially for client interactions
+• Substance Policy: No drugs/alcohol during work hours or on premises
+• Outside Work: External employment must be disclosed and pre-approved
+• Whistleblower Protection: Safe reporting of violations without retaliation
+• Investigation Process: All violations investigated promptly and fairly
+• Disciplinary Actions: Range from warnings to termination based on severity
+• Safety Compliance: Follow all health and safety guidelines
+• Public Statements: Only authorized spokespersons speak for company
+• Record Keeping: All business records must be truthful and accurate
+
+=== CORE COMPANY VALUES ===
+• Customer Obsession: Start with customer needs, build trust, use feedback for innovation
+• Think Big & Innovate: Challenge status quo, propose bold ideas, take calculated risks
+• Ownership & Accountability: Act like owner, take responsibility end-to-end, own problems until resolved
+• Bias for Action: Speed matters, make quick decisions, act first then ask forgiveness
+• Deliver Results: Focus on key inputs, deliver quality work on time, overcome obstacles
+• One Team: Value diverse perspectives, assume positive intent, commit to team decisions
+
+=== KEY COMPANY CONTACTS ===
+• Emergency: 911 first, then Security Desk (x5555)
+• IT Support: servicedesk.company.com, IT Help Bot, x4357 (HELP)
+• Password Reset: password.company.com (self-service)
+• Security Issues: security@company.com for breaches/phishing
+• HR General: hr.company.com, ask_hr@company.com
+• Benefits: benefits@company.com for insurance/retirement questions
+• Payroll: payroll@company.com for salary/tax issues
+• Travel: travel.company.com, 24/7 support +1-800-555-1234
+• Facilities: facilities.company.com for office maintenance
+• Ethics Hotline: ethics.company.com/report, +1-888-555-0011
+• Employee Assistance: WellnessCorp +1-800-222-3333 (24/7 counseling)
+• Learning & Development: learning@company.com
+• Onboarding Coordinator: newhires@company.com
+
+=== IT SETUP PROCESS ===
+• Hardware: MacBook Pro/Dell XPS laptop with power adapter and dongles
+• Initial Setup: Pre-imaged laptop guides through setup process
+• Login: Use temporary credentials from Welcome email, forced password change
+• Password Requirements: 14+ characters with upper/lower case, numbers, symbols
+• MFA Setup: Mandatory Okta Verify or Microsoft Authenticator on mobile
+• VPN: Cisco AnyConnect or GlobalProtect pre-installed for secure connection
+• Email: Outlook/Gmail pre-configured with corporate account
+• Collaboration: Slack/Teams login via SSO
+• Software: Pre-installed Office 365, VS Code, Chrome, security software
+• Security: CrowdStrike/Defender antivirus, BitLocker/FileVault encryption
+• Password Manager: 1Password or LastPass corporate vault setup
+• Hardware Requests: Use IT Service Desk for monitors, keyboards, mice
+• Support: x4357 or servicedesk.company.com for technical issues
+
+=== LEAVE POLICY ===
+• Leave Year: Calendar year (Jan 1 - Dec 31)
+• Privilege Leave (PL): 1.5 days accrued per month
+• Casual Leave (CL): 8 days annual quota for personal matters
+• Sick Leave (SL): 10 days annual quota for medical recovery
+• Probation: No PL during first 3 months, CL/SL available pro-rata
+• Carry Forward: Up to 15 days PL to next year, CL/SL lapse
+• Encashment: Only PL exceeding 30 days upon resignation
+• Application: All leaves via HRMS portal
+• Notice Period: 2 weeks for PL >3 days, same-day notification for sick leave by 9:30 AM
+• Medical Certificate: Required for SL >3 consecutive days
+• Maternity: 26 weeks paid leave, Paternity: 10 days within 3 months of birth
+• Bereavement: 3 days paid for immediate family death
+• Comp-Off: Weekend/holiday work with manager approval, use within 30 days
+• Sandwich Rule: Weekends between leave days count as leave
+• Short Leave: 2 hours twice monthly without deduction
+• Half-Day: 0.5 day increments (morning/afternoon)
+• Loss of Pay: Salary deduction for exceeding leave balance
+• Unauthorized Absence: >3 days triggers disciplinary action
+
+=== ORGANIZATIONAL STRUCTURE ===
+• Model: Matrix structure with functional departments and project-based units
+• Leadership: CEO leads C-Suite (CTO, CFO, CRO, CPO, COO)
+• Technology: CTO oversees Core Engineering, DevOps, SRE, IT
+• Product: CPO manages Product Management, UX/UI Design, User Research
+• Revenue: CRO leads Sales, Marketing, Customer Success
+• Finance: CFO handles Accounting, Payroll, FP&A, Procurement
+• People: CHRO manages HR, Talent Acquisition, Learning & Development
+• Operations: COO oversees Business Operations, Legal, Facilities
+• Engineering: VP of Engineering manages squads/pods (Payments, Mobile, etc.)
+• Teams: Embedded PMs and designers in engineering squads
+• Sales: Segmented by Enterprise, Mid-Market, SMB and regions
+• Directory: Use directory.company.com to find employees and reporting lines
+
+=== PAYROLL FAQ ===
+• Pay Schedule: Last business day of each month
+• Pay Period: 1st to last day of month
+• Payslip Access: HRMS (Workday) 2 days before payday
+• Format: 100% digital, no paper payslips
+• Bank Details: Update in HRMS "Payment Elections" 5 days before payday
+• Salary Types: Base (fixed annual) vs Gross (before deductions) vs Net (take-home)
+• Deductions: Federal/State taxes, 401k/PF, health insurance, voluntary deductions
+• Tax Changes: Update W-4 directly in HRMS
+• Bonus Taxation: Higher flat withholding rate for supplemental income
+• Overtime: 1.5x rate for eligible employees, paid following month
+• Reimbursements: Separate payment from salary
+• Leave Impact: Pro-rata reduction for unpaid leave days
+• Retirement Match: Starts after 90-day probation
+• Mid-month Start: Pro-rated first paycheck
+• Final Pay: Includes accrued leave, paid on regular schedule
+• Tax Documents: W-2/Form 16 available in HRMS by January 31st
+• Employment Verification: Auto-generate from HRMS or email ask_hr@company.com
+• ESPP: Enrollment twice yearly (June, December) via Benefits portal
+
+=== REIMBURSEMENT POLICY ===
+• Platform: SAP Concur or Expensify for all expense claims
+• Deadline: Submit within 30 days of expense date
+• Receipts: Original itemized digital receipt mandatory for every expense
+• Approval: Manager approval required, then finance audit
+• Payout: Next payroll cycle via direct deposit
+• Non-Reimbursable: Fines, personal items, daily commute, childcare, internal lunches
+• Business Travel: Taxis/ride-sharing for meetings, client visits, airport transport
+• Client Meals: Reimbursable with attendee names and business purpose
+• Alcohol: Max 25% of itemized meal bill when dining with clients
+• Home Office: $50/month stipend covers internet/phone, request hardware via IT
+• Supplies: Small office supplies <$50/quarter reimbursable
+• Software: Must be procured via IT department, no personal purchases
+• Professional Development: Use $1,000 L&D fund via expense tool
+• Certifications: Reimbursable after passing exam
+• Travel Booking: Must use company travel tool
+• Monthly Reports: One consolidated report, not multiple individual claims
+• Lost Receipts: Missing Receipt Affidavit limited to 2 per year
+
+=== SECURITY GUIDELINES ===
+• Password Policy: Minimum 14 characters with complexity requirements
+• Password Manager: Use company-provided 1Password for all credentials
+• MFA: Mandatory on all supporting systems (SSO, email, code repos)
+• Phishing: Report suspicious emails via "Report Phishing" button
+• Data Classification: Public, Internal, Confidential, Restricted levels
+• Data Handling: Never email Confidential/Restricted to personal accounts
+• Software: Only install authorized, licensed software via IT portal
+• Public Wi-Fi: Avoid or use VPN when necessary
+• VPN: Always connected when working remotely
+• Physical Security: Wear ID badge, don't tailgate, escort visitors
+• Clean Desk: Lock screen when away (Win+L / Cmd+Ctrl+Q)
+• Device Security: Never leave laptops unattended in public
+• Incident Reporting: Report loss/theft within 1 hour to IT
+• USB Restrictions: Don't use unknown removable media
+• Social Engineering: Verify identity of callers requesting information
+• Annual Training: Mandatory security awareness training required
+
+=== TOOLS ONBOARDING ===
+• SSO: Okta provides single sign-on access to most tools
+• Communication: Slack for internal chat, Outlook/Gmail for formal email
+• Video: Zoom for all internal and external meetings
+• Calendar: Outlook Calendar is single source of truth
+• Project Management: Jira for engineering/product, Asana/Trello for other teams
+• Documentation: Confluence for internal wiki, SharePoint/Google Drive for HR docs
+• HRIS: Workday/BambooHR for personal data, payslips, leave requests
+• Code: GitHub/GitLab/Bitbucket for code repositories
+• CI/CD: Jenkins/GitLab CI for automated builds and deployments
+• Design: Figma for UI/UX collaboration, Adobe Creative Cloud for graphics
+• Cloud: AWS/Azure/GCP infrastructure access
+• CRM: Salesforce for customer relationship management
+• Support: Zendesk for customer support tickets
+• Passwords: 1Password/LastPass for credential management
+• Expenses: SAP Concur/Expensify for reimbursements
+• Learning: Coursera/Pluralsight with full employee licenses
+• Surveys: Culture Amp for employee engagement
+• Recognition: Bonusly for peer-to-peer recognition
+• Scheduling: Calendly for external meeting scheduling
+• Storage: U: Drive (personal), S: Drive (shared team storage)
+
+=== TRAVEL POLICY ===
+• Booking: Mandatory use of company travel portal (Concur Travel/Egencia)
+• Approval: Manager pre-approval required before booking
+• Air Travel: Economy domestic, Premium Economy/Business for 8+ hour international flights
+• Advance Booking: 14 days minimum for better fares
+• Hotel Cap: $200/night standard rate, higher for expensive cities
+• Ground Transport: Uber/Lyft/taxis, no limo/black car services
+• Rental Cars: Only if most cost-effective, Mid-Size/Standard class only
+• Insurance: Decline CDW, company policy provides coverage
+• Per Diem: Daily meal allowance based on destination city
+• Personal Extension: Allowed but employee pays cost difference
+• Client Entertainment: Reasonable dinners reimbursable
+• Travel Documents: Employee responsible for passport, company pays business visas
+• Loyalty Programs: Personal airline/hotel points allowed
+• Travel Insurance: Company provides comprehensive coverage
+• Safety: Register international trips with tracking provider
+• Cancellations: Contact travel desk immediately for business cancellations
+
+=== WEEKLY CHECKLISTS ===
+
+Week 1 Focus: Setup and Initial Integration
+• Day 1: IT setup (laptop, MFA, VPN), system logins, team introductions
+• Day 1: Review contacts, company values, org structure, email signature setup
+• Day 2: Schedule team coffee chats, first 1:1 with manager, review policies
+• Day 3: Benefits enrollment, acknowledge conduct/security policies, join Slack channels
+• Day 4: Complete compliance training, tool access, attend New Hire Orientation
+• Day 5: Set 30/60/90-day goals, understand project board, first task assignment
+
+Week 2 Focus: Learning and Integration
+• Active participation in daily stand-ups and team meetings
+• Review 3-6 months of project documentation in Confluence
+• Shadow teammate, review their work (code/design/reports)
+• Complete 1-2 small tasks, understand "Definition of Done"
+• Cross-functional coffee chats outside immediate team
+• Product demo attendance, architecture/design system review
+• Customer persona understanding, competitor analysis
+• Benefits and payroll confirmation, advanced tool exploration
+
+Week 3 Focus: Independent Contribution
+• Take ownership of medium-sized task from backlog
+• Submit first significant work (PR, design draft, analysis)
+• Move from observer to participant in team ceremonies
+• Contribute to team wiki, update outdated documentation
+• Coffee chat with skip-level manager or team lead
+• Customer support call observation, feedback review
+• Practice proper communication channels per guidelines
+• Performance feedback request from manager
+
+Week 4 Focus: Autonomy and 30-Day Review
+• Independent task completion from sprint backlog
+• Participate in task estimation and sprint planning
+• Review teammate's work (code review, design review)
+• Contribute to sprint retrospective meeting
+• 30-Day review preparation with accomplishments list
+• Complete New Hire survey, buddy program wrap-up
+• Cross-functional impact understanding
+• Tool customization for productivity, team contribution
+
+=== WORK POLICY ===
+• Model: Hybrid-First organization requiring 3 office days per week
+• Anchor Days: Manager-designated days (typically Tue, Wed, Thu)
+• Remote Options: Available only for designated "Remote-Only" roles
+• Core Hours: 10:00 AM - 4:00 PM availability required for all
+• Standard Day: 8 hours work + 1 hour lunch break
+• Flexibility: Schedule 8 hours around core time (e.g., 9 AM - 6 PM)
+• Attendance: ID card swipes for office, HRMS login for remote
+• Video Calls: Business casual appearance required
+• Home Workspace: Employee responsible for safe, ergonomic, quiet environment
+• Connectivity: Minimum 50 Mbps internet at employee expense
+• Equipment: Company provides laptop, monitor, docking station
+• Security: All remote work via company VPN
+• Temporary WFH: Manager approval for personal needs
+• Sick Policy: Take sick leave, don't work from home when ill
+• Time Tracking: Engineers/consultants log 8 hours daily in project tools
+• Overtime: Discouraged, requires manager pre-approval
+• Breaks: 60-minute unpaid lunch + two 15-minute paid breaks
+• Hot-Desking: Book office space via OfficeSpace app
+• Client Sites: Follow client policy + company Code of Conduct
+• Right to Disconnect: No expectation to respond outside work hours
+• No-Meeting Zone: Wednesday 2-5 PM reserved for deep work
+• Punctuality: Be online/at desk by scheduled start time
+• Absence Notification: Notify manager by 9:30 AM if unable to work
