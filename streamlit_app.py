@@ -339,24 +339,29 @@ if st.session_state.page == "chat":
 
 
 
+    if "last_input" not in st.session_state:
+        st.session_state.last_input = ""
+    
     if prompt := st.chat_input("Ask Nova anything..."):
-        if len(prompt.strip()) == 0:
-            st.warning("Please enter a question.")
-        elif len(prompt) > 1000:
-            st.error("Question too long. Please keep it under 1000 characters.")
-        else:
-            st.session_state.messages.append({"role": "user", "content": prompt})
+        if prompt != st.session_state.last_input:
+            st.session_state.last_input = prompt
             
-            document_name = find_relevant_document(prompt)
-            document_content = load_document(document_name)
-            
-            if document_content.startswith("Error:"):
-                ai_response = "I'm having trouble accessing the relevant documents. Please try again or contact support."
+            if len(prompt.strip()) == 0:
+                st.warning("Please enter a question.")
+            elif len(prompt) > 1000:
+                st.error("Question too long. Please keep it under 1000 characters.")
             else:
-                ai_response = get_ai_response(prompt, document_content)
-            
-            st.session_state.messages.append({"role": "assistant", "content": ai_response})
-            st.rerun()
+                st.session_state.messages.append({"role": "user", "content": prompt})
+                
+                document_name = find_relevant_document(prompt)
+                document_content = load_document(document_name)
+                
+                if document_content.startswith("Error:"):
+                    ai_response = "I'm having trouble accessing the relevant documents. Please try again or contact support."
+                else:
+                    ai_response = get_ai_response(prompt, document_content)
+                
+                st.session_state.messages.append({"role": "assistant", "content": ai_response})
 # -------------------- DOCUMENT PAGE --------------------
 else:
     st.markdown("""
